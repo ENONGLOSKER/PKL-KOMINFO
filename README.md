@@ -1,18 +1,13 @@
 # PKL-KOMINFO
 PANDUAN MEMBUAT COMMIT : IKUTI FORMAT BERIKUT
 GIT COMMIT -M "KET : ISI" 
-contoh : git commit  -m "perubahan bab 1 : tujuan dan manfaat"
-contoh : git commit  -m "penambahan bab 1 : tujuan dan manfaat"
-contoh : git commit  -m "peghappusan bab 1 : tujuan dan manfaat"
-- ISI   : PERUBAHAN, DATA 1
-- ISI   : PENAMBAHAN, DATA 2
-- ISI   : PENGHAPUSAN, DATA 3
+- ISI   : PERUBAHAN, DATA 1 contoh : git commit  -m "perubahan bab 1 : tujuan dan manfaat"
+- ISI   : PENAMBAHAN, DATA 2 contoh : git commit  -m "penambahan bab 1 : tujuan dan manfaat"
+- ISI   : PENGHAPUSAN, DATA 3 contoh : git commit  -m "peghappusan bab 1 : tujuan dan manfaat"
 - 
 GIT COMMIT -M "REVISI : ISI, FIXED : ISI" 
-contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat"
-contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat, fixed bab 1 : tujuan dan manfaat"
-- REVISI  : POINT MASALAH
-- FIXED   : POINT MASALAH_ACC
+- REVISI  : POINT MASALAH contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat"
+- FIXED   : POINT MASALAH_ACC contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat, fixed bab 1 : tujuan dan manfaat"
 - 
 ## LAPORAN-PKL
 - JUDUL   : ANALISIS DAN PERANCANGAN SISTEM PRIKSA MANDIRI SURAT PEMBERITAHUAN PAJAK TERTUNDA (PRIRI SPPT)
