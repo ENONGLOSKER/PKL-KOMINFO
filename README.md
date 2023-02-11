@@ -1,11 +1,26 @@
 # PKL-KOMINFO
-
+PANDUAN MEMBUAT COMMIT : IKUTI FORMAT BERIKUT
+GIT COMMIT -M "KET : ISI" 
+contoh : git commit  -m "perubahan bab 1 : tujuan dan manfaat"
+contoh : git commit  -m "penambahan bab 1 : tujuan dan manfaat"
+contoh : git commit  -m "peghappusan bab 1 : tujuan dan manfaat"
+- ISI   : PERUBAHAN, DATA 1
+- ISI   : PENAMBAHAN, DATA 2
+- ISI   : PENGHAPUSAN, DATA 3
+- 
+GIT COMMIT -M "REVISI : ISI, FIXED : ISI" 
+contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat"
+contoh : git commit  -m "revisi bab 1 : tujuan dan manfaat, fixed bab 1 : tujuan dan manfaat"
+- REVISI  : POINT MASALAH
+- FIXED   : POINT MASALAH_ACC
+- 
 ## LAPORAN-PKL
 - JUDUL   : ANALISIS DAN PERANCANGAN SISTEM PRIKSA MANDIRI SURAT PEMBERITAHUAN PAJAK TERTUNDA (PRIRI SPPT)
 - ANGOOTA : ABDURRAHMAN, ZAENUL ALQUSAIRI & RIZQAULFATURRAHMI
 - PRODI   : TEKNIK INFORMATRIKA
 - DETAIL  : KOMINFO -> BADAN PENDAPATAN DAERAH (BAPENDA)
 - DPL     : YUDI SUTARYANA, M.Kom
+- 
 ## DESKRIPSI 
 BAB I   : ABDURRAHMAN
 RINCIAN :
